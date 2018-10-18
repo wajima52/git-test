@@ -2,3 +2,5 @@
 function A
 
 functiion B
+
+function C
