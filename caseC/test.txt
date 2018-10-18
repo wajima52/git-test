@@ -1,6 +1,8 @@
 
 function A
 
+functionC
+
 functiion B
 
 function C
